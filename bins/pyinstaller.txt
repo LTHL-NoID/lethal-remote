@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name L3TH4L-R3M0T3 --icon appicon.ico L3TH4L-R3M0T3-v1.0.py --clean
